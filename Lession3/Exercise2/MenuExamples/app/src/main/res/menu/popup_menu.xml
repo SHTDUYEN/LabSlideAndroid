@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Hide other buttons" android:id="@+id/popup_hide_others"/>
+    <item android:title="Show other buttons" android:id="@+id/popup_show_others"/>
+    <item android:title="Say bye" android:id="@+id/popup_say_bye"/>
+</menu>
