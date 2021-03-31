@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NinjaTurtle</string>
+    <string name="don">Don</string>
+    <string name="leo">Leo</string>
+    <string name="mike">Mike</string>
+    <string name="raph">Raph</string>
+    <string name="please_choose">Please choose</string>
+</resources>
